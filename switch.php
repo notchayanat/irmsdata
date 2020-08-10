@@ -2,11 +2,11 @@
 
 <script>
 
-  const APPID = "Your App ID";
-  const KEY = "Your App Key";
-  const SECRET = "Your App Secret";
+  const APPID = "irmslinebot/";
+  const KEY = "KVlbk05OSE1I6CF";
+  const SECRET = "bsIlAJwsxCxs1StLpICH4W8T7";
 
-  const ALIAS = "DigitalOUTPUT_HTML_web";     //  ชื่อตัวเอง
+  const ALIAS = "switch";     //  ชื่อตัวเอง
   const thing1 = "NodeMCU1";                                   //  ชื่อเพื่อนที่จะคุย
 
   function switchPress(logic){
